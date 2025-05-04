@@ -20,7 +20,8 @@ We explore the intersection of classic backend engineering with modern AI workfl
 
 ### 📚 Explore More
 
-- **Blog**: [codeverse-ai.hashnode.dev](https://codeverse-ai.hashnode.dev)  
+- **Blog**: [codeverse-ai.hashnode.dev](https://codeverse-ai.hashnode.dev)
+- **Medium**:[medium.com/@codeverse-dev-ai]
   Dev tutorials, AI integrations, and backend blueprints.
 
 - **Projects**: Repos for GPT-integrated Java apps, code utilities, and microservice kits.
